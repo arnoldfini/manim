@@ -6,7 +6,7 @@ progressbar
 scipy
 tqdm
 opencv-python
-pycairo
+pycairo version== 1.18.0
 pydub
 pygments
 pyreadline; sys_platform == 'win32'
